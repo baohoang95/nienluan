@@ -22,6 +22,6 @@ Website cũng đã được responsive để tối ưu với các dòng điện 
 
 Còn về phần Back-End em sẽ hoàn thiện sau khi đầy đủ kiến thức. Em xin chân thành cảm ơn thầy <strong> Nguyễn Mậu Hân </strong> giáo viên hướng dẫn đã tận tình chỉ bảo để em hoàn thành bài niên luận này.
 
-Em xin chân thành cảm ơn!!!
+Em xin chân thành cảm ơn !!!
 
 Huế , Ngày 31/08/2019
